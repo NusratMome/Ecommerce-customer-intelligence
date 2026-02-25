@@ -49,6 +49,10 @@ After downloading, place the file in the project root or data folder before runn
 
 ---
 
+## Customer Segmentation (PCA Visualization)
+
+![Customer Segmentation PCA](online_retail_II.xlsx/rfm_pca_segmentation.png)
+
 ##  Business Impact
 
 This project demonstrates how data science can:
