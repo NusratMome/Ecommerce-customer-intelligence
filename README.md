@@ -51,7 +51,9 @@ After downloading, place the file in the project root or data folder before runn
 
 ## Customer Segmentation (PCA Visualization)
 
-![Customer Segmentation PCA](online_retail_II.xlsx/rfm_pca_segmentation.png)
+<p align="center">
+  <img src="online_retail_II.xlsx/rfm_pca_segmentation.png" width="700">
+</p>
 
 ##  Business Impact
 
