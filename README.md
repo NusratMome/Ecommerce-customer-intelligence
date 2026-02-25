@@ -16,6 +16,14 @@ This project explores:
 
 ---
 
+##  Dataset
+
+This project uses the Online Retail II dataset (UK-based e-commerce transactions).
+Due to GitHub file size limits (>25MB), the dataset is not included in this repository.
+You can download it from Kaggle:
+https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset?resource=download
+After downloading, place the file in the project root or data folder before running the notebook.
+
 ##  Key Highlights
 
 - Revenue concentration identified among high-value customers
